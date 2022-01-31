@@ -9,7 +9,9 @@
   },
   "author": "Cyrielle Gl",
   "license": "MIT",
+  "type": "module",
   "dependencies": {
+    "bootstrap": "^5.1.3",
     "node-emoji": "^1.11.0",
     "react": "^17.0.2"
   }
